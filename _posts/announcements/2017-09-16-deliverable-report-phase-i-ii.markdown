@@ -14,7 +14,7 @@ It is exciting that Solar Decathlon China 2018 has started its one year countdow
 - D-7 Project Summary, due on Thursday, 25 Jun 2018
 - D-8 Public Exhibit Materials (preliminary), due on Thursday, 22 Feb 2018
 
-All submissions shall be delivered to the Organizing Committee by `5:30PM` Beijing Time to avoid point penalty. Content and format requirements for each submittal are provided in the [Rules Reference](#file) attached. Please note that deliverables in Phase II weight `35%` of total contract payment. As per the contract, teams will receive `$1,500` fund support from the Organizing Comittee upon approval of your deliverables.
+All submissions shall be delivered to the Organizing Committee by `5:30PM` Beijing Time to avoid point penalty. Content and format requirements for each submittal are provided in the [Rules Reference](#file) attached. Please note that deliverables in Phase II weight `35%` of total contract payment. As per the contract, teams will receive `$15,000` fund support from the Organizing Comittee upon approval of your deliverables.
 
 As a summary, I am also pleased to attach the [deliverable status](#file) of Phase I for your reference. Please check your submissions and hand in the overdues as soon as possible. You need to get all contract deliverables in the sheet marked `green` as an indication of approval. Due to the postponement of competition, late submission of Phase I deliverables will not result in point penalty, but will delay the first contract payment (`$30,000`). If you are submitting or updating previous deliverables, please read the following instruction: 
 
