@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Team JIA+"
+category: news
+---
+
+<a href="{{ site.baseurl }}/pages/teams/jia.html">Team JIA+</a> enjoyed a house opening celebration at Xiamen University! 
+
+<img class="img-width" src="{{ site.baseurl }}/assets/img/news/img_.png">

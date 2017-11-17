@@ -11,7 +11,7 @@ markdown: kramdown
 
 teams:
 - {num: 1, name: Team HKU, abr: hku, title: S(L)OW House}
-- {num: 2, name: Team SSA, abr: ssa, title: PUR-e House}
+- {num: 2, name: Team PKU, abr: pku, title: SHU}
 - {num: 3, name: Team THU, abr: thu, title: WHAO House}
 - {num: 4, name: Team XJTU-WNEU, abr: xjt, title: Xi'an Mass}
 - {num: 5, name: Team YI, abr: yi, title: YI}
